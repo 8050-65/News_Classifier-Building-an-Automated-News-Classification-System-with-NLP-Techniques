@@ -1,7 +1,7 @@
 # News_Classifier-Building-an-Automated-News-Classification-System-with-NLP-Techniques
 Building a news classification system involves several steps, including web scraping, data preprocessing, and model training. Below is a high-level outline of the steps you can follow using Natural Language Processing (NLP) techniques:
 
-# Project12--Web-Scrapping-and-News-Classification
+# Project--Web-Scrapping-and-News-Classification
 ## NewsClassifier: Building an Automated News Classification System with NLP Techniques
 The project aims to build a news classification involving several steps, including 
 * web scraping 
